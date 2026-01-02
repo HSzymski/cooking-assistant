@@ -1,0 +1,13 @@
+{
+  "files.exclude": {},
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.stickyScroll.enabled": true,
+  "editor.stickyScroll.defaultModel": "foldingProviderModel",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python-envs.pythonProjects": []
+}
